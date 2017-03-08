@@ -1,0 +1,9 @@
+.sass-cache
+.jekyll-metadata
+node_modules
+npm-debug.log
+.DS_Store
+Gemfile
+Gemfile.lock
+_site
+documents

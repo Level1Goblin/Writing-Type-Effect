@@ -1,0 +1,15 @@
+title: Basic Jekyll Build
+description: >
+  Jim Merritt's basic Jekyll build. This includes gulp and is based off the build by Aaron Lasseigne.
+baseurl: ""
+url: ""
+
+markdown: kramdown
+
+exclude:
+  - package.json
+  - gulpfile.js
+  - node_modules
+  - assets/svg_store
+  - Gemfile
+  - Gemfille.lock
